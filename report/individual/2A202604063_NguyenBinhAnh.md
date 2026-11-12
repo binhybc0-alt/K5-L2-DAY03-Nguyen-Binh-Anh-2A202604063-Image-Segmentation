@@ -6,7 +6,7 @@
 * Ngày / CVAT local: 11–12/11/2026 
 * Công cụ đã dùng: CVAT, Polygon (Mask Polygon),SAM
 
-Mã học viên là mã lớp cấp; không cần ghi họ tên trong report nếu kênh [LMS](https://aithucchien.vinuni.edu.vn) đã nhận diện bạn. Chỉ ghi công cụ thật sự đã dùng; không có SAM vẫn làm bài bình thường.
+
 
 ## 1\. Bài đã nộp
 
